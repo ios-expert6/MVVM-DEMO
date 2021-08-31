@@ -1,0 +1,96 @@
+
+/* Class = "UITextField"; placeholder = "Confirm Login Password"; ObjectID = "1Ls-9c-raS"; */
+"1Ls-9c-raS.placeholder" = "Confirmer le mot de passe de connexion";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "3Iz-Uz-xew"; */
+"3Iz-Uz-xew.placeholder" = "Prénom";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "5mO-yg-wbH"; */
+"5mO-yg-wbH.placeholder" = "Nom de famille";
+
+/* Class = "UITextField"; placeholder = "Create Login Password"; ObjectID = "ATE-ew-afh"; */
+"ATE-ew-afh.placeholder" = "Créer un mot de passe de connexion";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "AdG-0J-HuS"; */
+"AdG-0J-HuS.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Log In"; ObjectID = "BJL-XJ-ori"; */
+"BJL-XJ-ori.text" = "connexion";
+
+/* Class = "UILabel"; text = "By signing up on our platform, you agree you have read and agree to our Terms and Conditions."; ObjectID = "CAD-uy-QGB"; */
+"CAD-uy-QGB.text" = "En vous inscrivant sur notre plateforme, vous reconnaissez avoir lu et accepté nos conditions générales.";
+
+/* Class = "UILabel"; text = "Login With Social Accounts"; ObjectID = "IX0-82-1e4"; */
+"IX0-82-1e4.text" = "Connectez-vous avec des comptes sociaux";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "Iss-u3-4kn"; */
+"Iss-u3-4kn.placeholder" = "De campagne";
+
+/* Class = "UITextField"; placeholder = "City/Town"; ObjectID = "Lt1-gh-AxK"; */
+"Lt1-gh-AxK.placeholder" = "Ville/Ville";
+
+/* Class = "UILabel"; text = "Copyright © 2021"; ObjectID = "Mhl-7Z-vPa"; */
+"Mhl-7Z-vPa.text" = "Copyright © 2021";
+
+/* Class = "UILabel"; text = "Sign Up- It's Free"; ObjectID = "Qa2-JF-oM2"; */
+"Qa2-JF-oM2.text" = "Inscrivez-vous, c'est gratuit";
+
+/* Class = "UILabel"; text = "Don't have an account? SIGN UP"; ObjectID = "Sec-Jx-LLb"; */
+"Sec-Jx-LLb.text" = "Vous n'avez pas de compte ? S'INSCRIRE";
+
+/* Class = "UITextView"; text = "House/Street Address"; ObjectID = "VTT-SE-4uR"; */
+"VTT-SE-4uR.text" = "Adresse de la maison/rue";
+
+/* Class = "UILabel"; text = "Already Have An Account? LOGIN"; ObjectID = "VgM-zY-AWx"; */
+"VgM-zY-AWx.text" = "Vous avez déjà un compte? CONNEXION";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "Wv4-hf-pqq"; */
+"Wv4-hf-pqq.normalTitle" = "ENVOYER";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "YRj-aS-0ib"; */
+"YRj-aS-0ib.normalTitle" = "S'INSCRIRE";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "ZEG-vN-KhK"; */
+"ZEG-vN-KhK.text" = "Mot de passe oublié";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "aAe-f5-MSM"; */
+"aAe-f5-MSM.normalTitle" = "Mot de passe oublié?";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "bX8-NW-1mu"; */
+"bX8-NW-1mu.placeholder" = "E-mail";
+
+/* Class = "UITextField"; placeholder = "Referral Code (Optional)"; ObjectID = "dPw-Yh-FBb"; */
+"dPw-Yh-FBb.placeholder" = "Code de parrainage (facultatif)";
+
+/* Class = "UITextField"; placeholder = "Phone No"; ObjectID = "ejd-ks-7ca"; */
+"ejd-ks-7ca.placeholder" = "Pas de téléphone";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "icc-jA-TTn"; */
+"icc-jA-TTn.placeholder" = "E-mail";
+
+/* Class = "UITextField"; placeholder = "State/Province"; ObjectID = "iux-gg-NAo"; */
+"iux-gg-NAo.placeholder" = "État/Province";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "o4Q-Jx-xjc"; */
+"o4Q-Jx-xjc.placeholder" = "Adresse e-mail";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "rcP-WG-fyl"; */
+"rcP-WG-fyl.normalTitle" = "S'INSCRIRE";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "t8e-i9-msT"; */
+"t8e-i9-msT.normalTitle" = "CONNEXION";
+
+/* Class = "UITextField"; placeholder = "Zip Code (Optional)"; ObjectID = "vaR-Qp-0Aj"; */
+"vaR-Qp-0Aj.placeholder" = "Code postal (optionnel)";
+
+/* Class = "UITextField"; placeholder = "Name of Referral"; ObjectID = "vjR-vW-MVu"; */
+"vjR-vW-MVu.placeholder" = "Nom de la référence";
+
+/* Class = "UITextField"; placeholder = "House/Street Number"; ObjectID = "vmu-nz-978"; */
+"vmu-nz-978.placeholder" = "Numéro de maison/rue";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "wuo-Lg-j5J"; */
+"wuo-Lg-j5J.normalTitle" = "CONNEXION";
+
+/* Class = "UIButton"; normalTitle = "  Back"; ObjectID = "ycl-GA-ShT"; */
+"ycl-GA-ShT.normalTitle" = "  Arrière";

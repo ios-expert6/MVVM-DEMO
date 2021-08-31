@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  MLM
+
+  Created by gwl on 16/02/21.
+  
+*/
+//MARK: Side menu options
+"homeFeed" = "Home Feed";
